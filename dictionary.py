@@ -16,9 +16,9 @@ print(my_dict['age']) #21
 
 
 #adding a new key-value pair
-my_dict['email'] = 'kashif4737@gmail.com'
+my_dict['email'] = 'name@example.com'
 
-print(my_dict) #{'name': 'kashif', 'age': 20, 'city': 'new_delhi', 'email': 'kashif4737@gmail.com'}
+print(my_dict) #{'name': 'kashif', 'age': 20, 'city': 'new_delhi', 'email': 'name@example.com'}
 
 
 #removing  a key-value pair
